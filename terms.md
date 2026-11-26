@@ -8,4 +8,4 @@ The tool is not offered to the public and has no other users. By authorizing it,
 
 The tool is provided as is, without warranty. See the privacy policy at privacy.html.
 
-Contact: aidan.r.rangel@gmail.com
+Contact: narravix69@gmail.com
