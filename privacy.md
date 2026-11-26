@@ -12,4 +12,4 @@ YouTube: this tool uses YouTube API Services. See the YouTube Terms of Service (
 
 Deleting data: revoking the app's access in each platform's settings removes all access. Contact the owner to delete anything else.
 
-Contact: aidan.r.rangel@gmail.com
+Contact: narravix69@gmail.com
